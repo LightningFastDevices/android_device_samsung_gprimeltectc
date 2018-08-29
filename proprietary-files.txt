@@ -106,4 +106,4 @@ lib/librilutils.so
 lib/libsec-ril.so
 
 # Sensors - J500HXXU1APE5_J500HOXE1APE5_J500HXXU1APC2
-lib/hw/sensors.msm8916.so|fb5fbe6b832c242e18ab0a5cb53ad91c
+lib/hw/sensors.msm8916.so:lib/hw/sensors.vendor.msm8916.so|fb5fbe6b832c242e18ab0a5cb53ad91c
